@@ -1,0 +1,18 @@
+:root {
+  --primary: #f0f;
+  --primary-text: #ffffff;
+  --secondary: #000000;
+  --secondary-text: #fcfcfc;
+  --accent: rgba(0, 255, 255, 0.808);
+  --accent-text: #000000;
+}
+
+
+.proceeds {
+  background-color: #f0f;
+  text-align: center;
+  margin: auto;
+  padding-top: 2%;
+  padding-bottom: 1%;
+}
+
